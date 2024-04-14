@@ -1,1 +1,3 @@
 # 20240414test
+
+[The American poet Walt Whitman spoke publicly many times on Abraham Lincoln](https://en.wikipedia.org/wiki/Walt\_Whitman's\_lectures\_on\_Abraham\_Lincoln), the 16th [president of the United States](https://en.wikipedia.org/wiki/President\_of\_the\_United\_States). A series of at least eleven lectures on [Lincoln](https://en.wikipedia.org/wiki/Abraham\_Lincoln)'s life and [his assassination](https://en.wikipedia.org/wiki/Assassination\_of\_Abraham\_Lincoln) began in [Steck Hall](https://en.wikipedia.org/wiki/Steck\_\(piano\)#Steck\_Hall) in [New York City](https://en.wikipedia.org/wiki/New\_York\_City) on April 14, 1879, and concluded in [Philadelphia](https://en.wikipedia.org/wiki/Philadelphia) on April 14, 1890, two years before
